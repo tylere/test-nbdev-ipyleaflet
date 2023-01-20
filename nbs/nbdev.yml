@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-nbdev-ipyleaflet"
+  site-url: "https://tylere.github.io/test-nbdev-ipyleaflet"
+  description: "Testing out ipyleaflet in nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/tylere/test-nbdev-ipyleaflet"
